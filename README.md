@@ -7,4 +7,5 @@ and manual
 - Safe Zone Teleport    (Press C)
 
 Nice thing for AFK
+
 <img width="343" height="201" alt="image" src="https://github.com/user-attachments/assets/aec08df5-2041-4e69-872c-b87bf6ca6482" />
