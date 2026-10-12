@@ -1,6 +1,6 @@
 Made for MATCHA EXTERNAL
 
-Kick An Uma simple cheat 
+Kick An Uma simple script 
 
 - Auto Farm (Simple and useful Kicks in perfect timing and teleports you back with your uma)
 
